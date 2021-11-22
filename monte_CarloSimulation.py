@@ -3,6 +3,8 @@
 Created on Thu Nov  4 10:59:26 2021
 
 @author: Jospin Amisi
+         Co-founder at ADAI Circle
+
 """
 
 """
