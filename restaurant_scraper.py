@@ -1,6 +1,7 @@
 #Author: Jospin Amisi
 #Location: Malawi
 #Phone Number: 0992129078
+#Version: 1.0.0
 
 import bs4
 from urllib.request import urlopen as uReq
